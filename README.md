@@ -150,13 +150,14 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="Sameer's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=ffffff" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </div>
-
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
 </div>
 
 ---
@@ -164,7 +165,7 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -244,7 +245,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ### From [Sameer447](https://github.com/Sameer447) with 💙
 
-<i>💻 "Code is like humor. When you have to explain it, it's bad!" – Cory House</i>
+<i>"Code is like humor. When you have to explain it, it's bad!" – Cory House</i>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 
