@@ -1,196 +1,260 @@
 <!-- markdownlint-disable MD033 MD041 -->
-
-<!-- HEADER SECTION -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,161b22,3B82F6%26height%3D220%26section%3Dheader%26text%3DSameer%2520Shoukat%26fontSize%3D60%26fontColor%3Dffffff%26animation%3Dtwinkling%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Engineer%2520%257C%2520Architecting%2520Scalable%2520Solutions%26descFontSize%3D20%26descAlignY%3D60" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sameer%20Shoukat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header"/>
 </div>
 
-<!-- SOCIAL ICONS & TYPING SVG -->
-
 <div align="center">
-
-<a href="https://github.com/sonder-blu">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D3B82F6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2BHigh-Performance%2BSaaS%2B%25F0%259F%259A%2580%3BExpert%2Bin%2BReact%252C%2BNext.js%2B%2526%2BNode.js%3BMobile%2B%2526%2BWeb%2BSpecialist%2B%25F0%259F%2593%25B1%3BOpen%2BSource%2BContributor" alt="Typing SVG" />
-</a>
-
-<p>
-<a href="https://github.com/Sameer447">
-<img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=social" alt="GitHub followers" />
-</a>
-<a href="https://twitter.com/SameerShoukat9">
-<img src="https://www.google.com/search?q=https://img.shields.io/twitter/follow/SameerShoukat9%3Fstyle%3Dsocial" alt="Twitter" />
-</a>
-</p>
-
-<!-- Clean Social Row -->
-
-<p>
-<a href="https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:sameer_shoukat@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-<a href="https://full-stack-developer-vhne.vercel.app" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-</a>
-<a href="https://stackoverflow.com/users/18160064/sameer-shoukat" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack_Overflow-FE7A16%3Fstyle%3Dfor-the-badge%26logo%3Dstack-overflow%26logoColor%3Dwhite" />
-</a>
-</p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Solutions+%F0%9F%92%BB;Mobile+%26+Web+Specialist+%F0%9F%93%B1)](https://git.io/typing-svg)
+  
 </div>
 
-<br />
-
-<!-- ABOUT ME SECTION (Side-by-Side Layout) -->
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="60%" valign="center">
-<h2>👋 About Me</h2>
-<p>
-I am a <b>Full Stack Engineer</b> based in <b>Lahore, Pakistan 🇵🇰</b> with over 4 years of experience building robust web and mobile applications. I specialize in the JavaScript ecosystem, focusing on performance, scalability, and clean architecture.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=social" alt="GitHub followers" />
 </p>
-<br />
 
+<p align="center">
+   Lahore, Pakistan • <a href="https://github.com/sonder-blu">@sonder-blu</a> • <a href="https://full-stack-developer-vhne.vercel.app"><strong>Portfolio</strong></a>
+</p>
+
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SameerShoukat9)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18160064/sameer-shoukat)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
+  
+</div>
+
+---
+
+## About Me
+
+```typescript
 const sameer = {
-code: ["React", "Next.js", "Node.js", "TypeScript"],
-architecture: ["Microservices", "Serverless", "Monorepos"],
-currentFocus: "Building high-performance SaaS platforms",
-challenge: "Turning complex problems into elegant code",
-funFact: "I debug with console.log and I'm not ashamed! 🐛"
+  location: "Lahore, Pakistan 🇵🇰",
+  role: "Full Stack Engineer",
+  company: "@sonder-blu",
+  experience: "4+ years",
+
+  currentFocus: [
+    "Building high-performance SaaS platforms",
+    "Real-time web & mobile applications",
+    "Scalable backend architectures",
+  ],
+
+  lookingFor: {
+    collaboration: "Open-source full stack projects",
+    opportunities: "Remote full-time positions",
+    interests: "Innovative startups & product companies",
+  },
+
+  askMeAbout: [
+    "React ecosystem & state management",
+    "Next.js & server-side rendering",
+    "RESTful API design & optimization",
+    "Mobile app development with React Native",
+    "Database architecture & MongoDB",
+  ],
+
+  funFact: "I debug with console.log and I'm not ashamed! 🐛",
 };
+```
 
-</td>
-<td width="40%" valign="center" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Coding Gif"/>
-</td>
+---
 
-</tr>
-</table>
-
-<!-- TECH STACK SECTION -->
+## Tech Stack
 
 <div align="center">
-<h2>🛠️ Technologies & Tools</h2>
 
-<!-- Frontend -->
+### Frontend Development
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,redux,tailwind,materialui%26theme%3Ddark" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Backend & Languages -->
+### Backend Development
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,nestjs,ts,js,python,cpp%26theme%3Ddark" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<!-- Database & Cloud -->
+### Languages
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,firebase,supabase,postgres,mysql,vercel,aws%26theme%3Ddark" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!-- Tools -->
+### Database & Backend Services
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,postman,figma,docker%26theme%3Ddark" />
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<!-- STATS SECTION (Grid Layout) -->
+---
 
-<h2 align="center">⚡ GitHub Analytics</h2>
+## Featured Projects
 
 <div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSameer447%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D3B82F6%26icon_color%3D3B82F6%26text_color%3DC9D1D9%26count_private%3Dtrue" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSameer447%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D3B82F6%26text_color%3DC9D1D9%26langs_count%3D6" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
-<br />
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSameer447%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D3B82F6%26ring%3D3B82F6%26fire%3DFF6B6B%26currStreakLabel%3D3B82F6" alt="GitHub Streak" />
-</div>
-
-<!-- ACTIVITY GRAPH -->
-
-<br />
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSameer447%26custom_title%3DContribution%2520History%26hide_border%3Dtrue%26border_radius%3D10%26bg_color%3D0D1117%26color%3D3B82F6%26line%3D3B82F6%26point%3DFFFFFF%26area_color%3D0D1117%26title_color%3D3B82F6%26area%3Dtrue" alt="Activity Graph" width="100%"/>
-</div>
-
-<!-- FEATURED PROJECTS -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table border="0" width="100%">
+<table>
 <tr>
 <td width="50%">
-<h3 align="center">🎬 SonderBlu</h3>
-<p align="center">
+
+### SonderBlu
+
+**Streaming & Social Platform**
+
 A unique movie streaming and social networking platform connecting film enthusiasts worldwide.
-<br />
-<br />
-<a href="https://github.com/sonder-blu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/View_Project-3B82F6%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-</p>
-<p align="center">
-<code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Firebase</code>
-</p>
+
+**Tech:** React • Node.js • MongoDB • Firebase
+
+[View Project](https://github.com/sonder-blu)
+
 </td>
 <td width="50%">
-<h3 align="center">🍔 Reilukuljetus</h3>
-<p align="center">
+
+### Reilukuljetus
+
+**Food Ordering App**
+
 Mobile-first food ordering platform with real-time tracking and seamless payment integration.
-<br />
-<br />
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Coming_Soon-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="Badge" />
-</a>
-</p>
-<p align="center">
-<code>React Native</code> <code>Node.js</code> <code>Express</code>
-</p>
+
+**Tech:** React Native • Node.js • Express
+
+<!-- 🔗 [View Demo](#) -->
+
 </td>
 </tr>
 </table>
 
-<!-- EXPERIENCE TIMELINE -->
+</div>
 
-<h2 align="center">💼 Career Timeline</h2>
+---
+
+## GitHub Analytics
 
 <div align="center">
+  <a href="https://github.com/Sameer447">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sameer447">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Sameer447">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/Sameer447">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
+  </a>
+</div>
 
-Current Role:
-Company: SonderBlu
-Position: React/React Native Developer
-Focus: High-performance web & mobile apps
-Period: Nov 2023 - Present
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Professional Experience
+
+```yaml
+Current:
+  - Company: SonderBlu
+    Role: React/React Native Developer
+    Period: Nov 2023 - Present
+    Focus: High-performance web & mobile apps, real-time features, scalable architecture
 
 Previous:
+  - Company: Bracesol
+    Role: Frontend Developer
+    Period: July 2021 - Oct 2023
+    Achievements: Led multiple client projects, improved frontend efficiency by 40%
 
-- Company: Bracesol
-  Position: Frontend Developer
-  Period: July 2021 - Oct 2023
-- Company: Bracesol
-  Position: Frontend Developer Intern
-  Period: June 2020 - June 2021
+  - Company: Bracesol
+    Role: Frontend Developer Intern
+    Period: June 2020 - June 2021
+    Learning: Responsive design, API integration, Agile workflows
+```
+
+---
+
+## Continuous Learning
+
+<div align="center">
+
+|      Platform      |             Focus Area             |   Status    |
+| :----------------: | :--------------------------------: | :---------: |
+|     HackerRank     |          Problem Solving           |  Certified  |
+| Currently Learning | System Design & Cloud Architecture | In Progress |
+|     Next Goal      |       AWS/GCP Certification        |   Planned   |
 
 </div>
 
-<!-- TROPHIES -->
+---
+
+## Contribution Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DSameer447%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4%26row%3D1%26column%3D7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&custom_title=Sameer's%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=0D1117&title_color=3B82F6&area=true" alt="Activity Graph" width="95%"/>
 </div>
 
-<br />
+---
 
-<!-- FOOTER -->
+## Let's Connect & Collaborate
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,161b22,3B82F6%26height%3D100%26section%3Dfooter" width="100%" alt="Footer"/>
+
+I'm always excited to work on innovative projects and connect with fellow developers!
+
+**Open to:**
+
+- Full-time opportunities in product-based companies
+- Collaborating on open-source projects
+- Freelance consulting for web/mobile apps
+- Technical discussions and knowledge sharing
+
+### Reach Out
+
+[![Email](https://img.shields.io/badge/Email-sameer__shoukat%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:sameer_shoukat@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-shoukat)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### From [Sameer447](https://github.com/Sameer447) with 💙
+
+<i>"Code is like humor. When you have to explain it, it's bad!" – Cory House</i>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
