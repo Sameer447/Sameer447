@@ -150,14 +150,22 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <a href="https://github.com/Sameer447">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sameer447">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <a href="https://github.com/Sameer447">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
+  <a href="https://github.com/Sameer447">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
