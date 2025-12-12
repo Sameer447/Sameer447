@@ -21,7 +21,7 @@
 <div align="center">
   
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SameerShoukat9)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer/)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18160064/sameer-shoukat)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
   
@@ -242,7 +242,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ### Reach Out
 
 [![Email](https://img.shields.io/badge/Email-sameer__shoukat%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:sameer_shoukat@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-shoukat)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
 
 </div>
