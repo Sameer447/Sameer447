@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  📍 Lahore, Pakistan 🇵🇰 • 💼 <a href="https://github.com/sonder-blu">@sonder-blu</a> • 🌐 <a href="https://full-stack-developer-vhne.vercel.app"><strong>Portfolio</strong></a>
+   Lahore, Pakistan • <a href="https://github.com/sonder-blu">@sonder-blu</a> • <a href="https://full-stack-developer-vhne.vercel.app"><strong>Portfolio</strong></a>
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const sameer = {
@@ -64,7 +64,7 @@ const sameer = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -108,7 +108,7 @@ const sameer = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const sameer = {
 <tr>
 <td width="50%">
 
-### 🎬 SonderBlu
+### SonderBlu
 
 **Streaming & Social Platform**
 
@@ -124,12 +124,12 @@ A unique movie streaming and social networking platform connecting film enthusia
 
 **Tech:** React • Node.js • MongoDB • Firebase
 
-🔗 [View Project](https://github.com/sonder-blu)
+[View Project](https://github.com/sonder-blu)
 
 </td>
 <td width="50%">
 
-### 🍔 Reilukuljetus
+### Reilukuljetus
 
 **Food Ordering App**
 
@@ -137,7 +137,7 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 
 **Tech:** React Native • Node.js • Express
 
-🔗 [View Demo](#)
+<!-- 🔗 [View Demo](#) -->
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="Sameer's GitHub Stats"/>
@@ -161,7 +161,7 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -169,7 +169,7 @@ Mobile-first food ordering platform with real-time tracking and seamless payment
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ```yaml
 Current:
@@ -192,21 +192,21 @@ Previous:
 
 ---
 
-## 🎓 Continuous Learning
+## Continuous Learning
 
 <div align="center">
 
-|       Platform        |             Focus Area             |     Status     |
-| :-------------------: | :--------------------------------: | :------------: |
-|     🎯 HackerRank     |          Problem Solving           |  ✅ Certified  |
-| 📚 Currently Learning | System Design & Cloud Architecture | 🔄 In Progress |
-|     🚀 Next Goal      |       AWS/GCP Certification        |   📋 Planned   |
+|      Platform      |             Focus Area             |   Status    |
+| :----------------: | :--------------------------------: | :---------: |
+|     HackerRank     |          Problem Solving           |  Certified  |
+| Currently Learning | System Design & Cloud Architecture | In Progress |
+|     Next Goal      |       AWS/GCP Certification        |   Planned   |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -217,7 +217,7 @@ Previous:
 
 ---
 
-## Let's Connect & Collaborate!
+## Let's Connect & Collaborate
 
 <div align="center">
 
@@ -225,10 +225,10 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 **Open to:**
 
-Full-time opportunities in product-based companies
-Collaborating on open-source projects
-Freelance consulting for web/mobile apps
-Technical discussions and knowledge sharing
+- Full-time opportunities in product-based companies
+- Collaborating on open-source projects
+- Freelance consulting for web/mobile apps
+- Technical discussions and knowledge sharing
 
 ### Reach Out
 
@@ -241,7 +241,9 @@ Technical discussions and knowledge sharing
 ---
 
 <div align="center">
-   ### From [Sameer447](https://github.com/Sameer447) with 💙
+ ### From [Sameer447](https://github.com/Sameer447) with 💙
+  
   <i>💻 "Code is like humor. When you have to explain it, it's bad!" – Cory House</i>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
