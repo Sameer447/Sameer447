@@ -217,7 +217,7 @@ Previous:
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -225,12 +225,12 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 **Open to:**
 
-- 🚀 Full-time opportunities in product-based companies
-- 🤝 Collaborating on open-source projects
-- 💡 Freelance consulting for web/mobile apps
-- 🎯 Technical discussions and knowledge sharing
+Full-time opportunities in product-based companies
+Collaborating on open-source projects
+Freelance consulting for web/mobile apps
+Technical discussions and knowledge sharing
 
-### 📬 Reach Out
+### Reach Out
 
 [![Email](https://img.shields.io/badge/Email-sameer__shoukat%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:sameer_shoukat@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-shoukat)
@@ -241,10 +241,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
-  
-  ### ⭐️ From [Sameer447](https://github.com/Sameer447) with 💙
-  
+   ### From [Sameer447](https://github.com/Sameer447) with 💙
   <i>💻 "Code is like humor. When you have to explain it, it's bad!" – Cory House</i>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
