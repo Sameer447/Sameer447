@@ -257,6 +257,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 
-[![GitHub](https://img.shields.io/badge/©_2024_Sameer_Shoukat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sameer447)
+[![GitHub](https://img.shields.io/badge/©_2025_Sameer_Shoukat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sameer447)
 
 </div>
