@@ -1,33 +1,43 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<!-- Healthcare Software Engineer | HIPAA Compliant | Telemedicine | Remote Patient Monitoring | FHIR | HL7 | EHR Integration | Medical Software | React Developer | Node.js | NestJS | Full Stack Developer -->
+<!-- Healthcare Software Engineer | HIPAA Compliant | Telemedicine | Remote Patient Monitoring | FHIR | HL7 | EHR Integration | Medical Software | React Developer | Node.js | NestJS | Full Stack Developer | Clinical Software | Patient Portal | Healthcare API -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sameer%20Shoukat&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Healthcare%20Software%20Engineer&descSize=18&descColor=7DD3FC&descAlignY=48" width="100%" alt="Sameer Shoukat - Healthcare Software Engineer specializing in HIPAA-compliant telemedicine and remote patient monitoring systems"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0c1445,50:162454,75:1a3a5c,100:0d9488&height=220&section=header&text=Sameer%20Shoukat&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=25&desc=%E2%9A%95%EF%B8%8F%20Healthcare%20Software%20Engineer%20%7C%20HIPAA%20%7C%20RPM%20%7C%20Telemedicine&descSize=16&descColor=7DD3FC&descAlignY=47&descAlign=50" width="100%" alt="Sameer Shoukat - Healthcare Software Engineer specializing in HIPAA-compliant telemedicine and remote patient monitoring systems"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=I+build+HIPAA-compliant+healthcare+platforms+that+save+lives;Remote+Patient+Monitoring+%E2%80%A2+Telemedicine+%E2%80%A2+EHR+Integration;300%2B+patients+monitored+%E2%80%A2+90+min%2Fday+saved+per+clinician;React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=0D9488&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%8F%A5+I+build+HIPAA-compliant+healthcare+platforms+that+save+lives;%F0%9F%93%8A+300%2B+patients+monitored+%E2%80%A2+90+min%2Fday+saved+per+clinician;%F0%9F%94%97+Remote+Patient+Monitoring+%E2%80%A2+Telemedicine+%E2%80%A2+EHR+Integration;%F0%9F%A4%96+AI+Clinical+Scribe+%E2%80%A2+GPT-4+%E2%80%A2+Decision+Support;%E2%9A%99%EF%B8%8F+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
   
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile%20Views&color=0891B2&style=flat-square" alt="Profile views - Healthcare Software Engineer" />
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%95%EF%B8%8F_HIPAA-Compliant-0D9488?style=for-the-badge&labelColor=0a0e27" alt="HIPAA Compliant"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=flat-square&color=0891B2" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/FHIR_R4-Certified-0D9488?style=for-the-badge&labelColor=0a0e27" alt="FHIR R4"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Available_for_Hire-Yes-0891B2?style=flat-square" alt="Available for hire - Healthcare Developer" />
-</p>
+  <img src="https://img.shields.io/badge/HL7_v2-Integration-0D9488?style=for-the-badge&labelColor=0a0e27" alt="HL7 v2"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/4%2B_Years-Healthcare_Dev-0D9488?style=for-the-badge&labelColor=0a0e27" alt="4+ Years Healthcare Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Available-For_Hire-22c55e?style=for-the-badge&labelColor=0a0e27" alt="Available for hire - Healthcare Developer"/>
+</div>
+
+<br/>
 
 <div align="center">
   <h3>
-    🏥 Healthcare Software Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; HIPAA Compliance Specialist
+    I build <strong>production-grade healthcare platforms</strong> that clinicians trust with patient lives.
   </h3>
   <p>
-    I build <strong>production-grade healthcare platforms</strong> — from Remote Patient Monitoring systems to AI-powered clinical tools.<br/>
-    Trusted by clinics serving <strong>300+ patients</strong> with mission-critical, HIPAA-compliant software.
+    From <strong>Remote Patient Monitoring</strong> systems serving <strong>300+ patients</strong> to <strong>AI-powered clinical scribes</strong><br/>
+    that save providers <strong>90 minutes per day</strong> — I deliver HIPAA-compliant software with real-world impact.
   </p>
 </div>
+
+<br/>
 
 <div align="center">
   
@@ -36,26 +46,24 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SameerShoukat9)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18160064/sameer-shoukat)
-  <!-- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL) -->
-  <!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL) -->
+  <!-- [![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL) -->
+  <!-- [![Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL) -->
   
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile views - Healthcare Software Engineer" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=flat-square&color=0D9488" alt="GitHub followers" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HIPAA-Compliant-0D9488?style=for-the-badge" alt="HIPAA Compliant"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FHIR_R4-Certified-0D9488?style=for-the-badge" alt="FHIR R4"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HL7_v2-Integration-0D9488?style=for-the-badge" alt="HL7 v2"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/4%2B_Years-Healthcare_Dev-0D9488?style=for-the-badge" alt="4+ Years Healthcare Development"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%E2%8F%A4%20About%20Me&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="About Me"/>
 </div>
 
----
-
-## 🏥 About Me
+<br/>
 
 ```typescript
 const sameer: HealthcareSoftwareEngineer = {
@@ -92,9 +100,11 @@ const sameer: HealthcareSoftwareEngineer = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 💡 What I Build
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%92%A1%20What%20I%20Build&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="What I Build"/>
+</div>
 
 > **I don't just write code. I build healthcare systems that clinicians rely on and patients trust.**
 
@@ -105,9 +115,11 @@ const sameer: HealthcareSoftwareEngineer = {
 - 💰 **Medical Billing & RCM** — Insurance claims processing, multi-insurer settlement, revenue cycle automation
 - 🔒 **HIPAA-Compliant Architecture** — End-to-end encryption, audit logging, role-based access, BAA-ready infrastructure
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Featured Projects"/>
+</div>
 
 <table>
 <tr>
@@ -218,9 +230,11 @@ const sameer: HealthcareSoftwareEngineer = {
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🛠 Technical Expertise
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%9B%A0%20Technical%20Expertise&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Technical Expertise"/>
+</div>
 
 <div align="center">
 
@@ -267,9 +281,11 @@ const sameer: HealthcareSoftwareEngineer = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🧠 What I Can Do for Your Healthcare Project
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%A7%A0%20What%20I%20Can%20Do%20for%20Your%20Healthcare%20Project&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Client Services"/>
+</div>
 
 | Area | What You Get |
 |------|-------------|
@@ -282,9 +298,11 @@ const sameer: HealthcareSoftwareEngineer = {
 | **Patient Mobile Apps** | Cross-platform (iOS & Android) apps with biometric auth, device integration, and push alerts |
 | **MVP Development** | From concept to production healthcare platform in weeks, not months |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="GitHub Analytics"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/Sameer447">
@@ -312,9 +330,11 @@ const sameer: HealthcareSoftwareEngineer = {
   <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🏆 Achievements & Impact
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%8F%86%20Achievements%20%26%20Impact&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Achievements"/>
+</div>
 
 | | Metric | Detail |
 |---|--------|--------|
@@ -327,9 +347,11 @@ const sameer: HealthcareSoftwareEngineer = {
 | 🏗 | **Multi-Tenant Architecture** | Single codebase serving multiple healthcare organizations |
 | 📊 | **4+ Years** | Dedicated healthcare software engineering experience |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🤝 Why Hire Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%A4%9D%20Why%20Hire%20Me&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Why Hire Me"/>
+</div>
 
 <table>
 <tr>
@@ -370,9 +392,11 @@ const sameer: HealthcareSoftwareEngineer = {
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## ⚙ How I Work
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%E2%9A%99%20How%20I%20Work&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="How I Work"/>
+</div>
 
 ```
 1. Discovery        →  Understand your clinical workflow, compliance needs, and goals
@@ -383,9 +407,11 @@ const sameer: HealthcareSoftwareEngineer = {
 6. Support          →  Post-launch support, iteration, and knowledge transfer
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🗣 What Clients Say
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%97%A3%20What%20Clients%20Say&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Testimonials"/>
+</div>
 
 <!-- Replace these with real testimonials as you collect them -->
 
@@ -400,9 +426,11 @@ const sameer: HealthcareSoftwareEngineer = {
 
 <!-- Add real testimonials above as they come in -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 🎯 Services I Offer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%8E%AF%20Services%20I%20Offer&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Services"/>
+</div>
 
 - **Healthcare MVP Development** — Take your health tech idea from concept to production
 - **RPM & Telemedicine Platforms** — End-to-end Remote Patient Monitoring and telehealth systems
@@ -413,9 +441,11 @@ const sameer: HealthcareSoftwareEngineer = {
 - **React / React Native Development** — High-performance healthcare web and mobile applications
 - **Technical Due Diligence** — Code audits and architecture assessments for health tech investments
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
-## 📚 Currently Exploring
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%93%9A%20Currently%20Exploring&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Currently Exploring"/>
+</div>
 
 <div align="center">
 
@@ -428,11 +458,19 @@ const sameer: HealthcareSoftwareEngineer = {
 
 </div>
 
----
-
-## 📫 Let's Build Something That Matters
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:22c55e,50:0D9488,100:0a0e27&height=45&section=header&text=%F0%9F%93%AB%20Let%27s%20Build%20Something%20That%20Matters&fontSize=18&fontColor=ffffff&fontAlignY=50" alt="Contact"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 **Whether you're a healthcare startup building an MVP or an established practice modernizing your systems — I can help.**
 
@@ -454,20 +492,27 @@ I'm currently available for **contract projects**, **full-time remote roles**, a
 
 <br/>
 
-**Response time:** Typically within 24 hours &nbsp;·&nbsp; **Timezone:** GMT+5 (flexible for US/EU overlap)
+**Response time:** Within 24 hours &nbsp;·&nbsp; **Timezone:** GMT+5 (flexible for US/EU overlap)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0c1445,50:162454,75:1a3a5c,100:0d9488&height=150&section=footer" width="100%" alt="Footer"/>
 </div>
 
 <div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=0D9488&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%9A%95%EF%B8%8F+Healthcare+software+isn't+just+code+%E2%80%94+it's+patient+safety." alt="Philosophy"/>
+  <br/><br/>
   <sub>
     <strong>Sameer Shoukat</strong> · Healthcare Software Engineer · Building technology that improves patient outcomes<br/>
     © 2026 · Last updated: April 2026
