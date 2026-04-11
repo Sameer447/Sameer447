@@ -103,7 +103,7 @@ const sameer: HealthcareSoftwareEngineer = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%92%A1%20What%20I%20Build&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="What I Build"/>
+  <img src="" alt="What I Build"/>
 </div>
 
 > **I don't just write code. I build healthcare systems that clinicians rely on and patients trust.**
