@@ -1,520 +1,281 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<!-- Healthcare Software Engineer | HIPAA Compliant | Telemedicine | Remote Patient Monitoring | FHIR | HL7 | EHR Integration | Medical Software | React Developer | Node.js | NestJS | Full Stack Developer | Clinical Software | Patient Portal | Healthcare API -->
+<!-- Sameer Shoukat | Full Stack Developer | AI Engineer | MEAN Stack | React Native | LLMs | RAG | Node.js | Angular | MongoDB | TypeScript | Python | Machine Learning -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0c1445,50:162454,75:1a3a5c,100:0d9488&height=220&section=header&text=Sameer%20Shoukat&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=25&desc=%E2%9A%95%EF%B8%8F%20Healthcare%20Software%20Engineer%20%7C%20HIPAA%20%7C%20RPM%20%7C%20Telemedicine&descSize=16&descColor=7DD3FC&descAlignY=47&descAlign=50" width="100%" alt="Sameer Shoukat - Healthcare Software Engineer specializing in HIPAA-compliant telemedicine and remote patient monitoring systems"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=200&section=header&text=Sameer%20Shoukat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Full%20Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=18&descColor=AFA9EC&descAlignY=50&descAlign=50" width="100%" alt="Sameer Shoukat"/>
 </div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=0D9488&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%8F%A5+I+build+HIPAA-compliant+healthcare+platforms+that+save+lives;%F0%9F%93%8A+300%2B+patients+monitored+%E2%80%A2+90+min%2Fday+saved+per+clinician;%F0%9F%94%97+Remote+Patient+Monitoring+%E2%80%A2+Telemedicine+%E2%80%A2+EHR+Integration;%F0%9F%A4%96+AI+Clinical+Scribe+%E2%80%A2+GPT-4+%E2%80%A2+Decision+Support;%E2%9A%99%EF%B8%8F+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
-  
-</div>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7F77DD&center=true&vCenter=true&repeat=true&width=700&height=40&lines=4%2B+years+shipping+full-stack+web+%26+mobile+apps;MEAN+Stack+%C2%B7+React+Native+%C2%B7+TypeScript+%C2%B7+Node.js;Now+going+all-in+on+AI+Engineering;LLMs+%C2%B7+RAG+Systems+%C2%B7+ML+%C2%B7+PyTorch+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%95%EF%B8%8F_HIPAA-Compliant-0D9488?style=for-the-badge&labelColor=0a0e27" alt="HIPAA Compliant"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FHIR_R4-Certified-0D9488?style=for-the-badge&labelColor=0a0e27" alt="FHIR R4"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HL7_v2-Integration-0D9488?style=for-the-badge&labelColor=0a0e27" alt="HL7 v2"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/4%2B_Years-Healthcare_Dev-0D9488?style=for-the-badge&labelColor=0a0e27" alt="4+ Years Healthcare Development"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Available-For_Hire-22c55e?style=for-the-badge&labelColor=0a0e27" alt="Available for hire - Healthcare Developer"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>
-    I build <strong>production-grade healthcare platforms</strong> that clinicians trust with patient lives.
-  </h3>
-  <p>
-    From <strong>Remote Patient Monitoring</strong> systems serving <strong>300+ patients</strong> to <strong>AI-powered clinical scribes</strong><br/>
-    that save providers <strong>90 minutes per day</strong> — I deliver HIPAA-compliant software with real-world impact.
-  </p>
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack-4%2B%20Years-534AB7?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-In%20Progress-7F77DD?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![Location](https://img.shields.io/badge/Lahore-Pakistan%20GMT%2B5-AFA9EC?style=for-the-badge&labelColor=0d0d1a)
+
 </div>
 
-<br/>
-
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer/)
-  [![Email](https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SameerShoukat9)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18160064/sameer-shoukat)
-  <!-- [![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL) -->
-  <!-- [![Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL) -->
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18160064/sameer-shoukat)
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile views - Healthcare Software Engineer" />
+  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile+Views&color=534AB7&style=flat-square" alt="Profile views"/>
   &nbsp;·&nbsp;
-  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=flat-square&color=0D9488" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=flat-square&color=534AB7" alt="Followers"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%E2%8F%A4%20About%20Me&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="About Me"/>
-</div>
-
-<br/>
+## About me
 
 ```typescript
-const sameer: HealthcareSoftwareEngineer = {
-  name: "Sameer Shoukat",
-  location: "Lahore, Pakistan (GMT+5 — flexible for US/EU timezones)",
-  role: "Healthcare Software Engineer | Full Stack Developer",
-  experience: "4+ years building production healthcare systems",
-  availability: "Contract · Full-time Remote · Long-term Partnerships",
+const sameer: Developer = {
+  name:       "Sameer Shoukat",
+  location:   "Lahore, Pakistan — flexible for US / EU timezones (GMT+5)",
+  experience: "4+ years building production web and mobile applications",
+  available:  "Full-time remote · Contract · Long-term partnerships",
 
-  domain: {
-    primary: "Healthcare & Health Tech",
-    compliance: ["HIPAA", "HITECH", "SOC 2 awareness"],
-    standards: ["FHIR R4", "HL7 v2", "ICD-10", "CPT codes"],
-    integrations: ["Epic", "Cerner", "EHR/EMR systems"],
-  },
+  currentFocus: "Transitioning into AI Engineering — LLMs, RAG, MLOps",
 
   stack: {
-    frontend: ["React", "Next.js (App Router)", "React Native"],
-    backend: ["NestJS", "Node.js", "Express"],
-    database: ["PostgreSQL", "Prisma", "MongoDB", "Redis"],
-    ai: ["OpenAI GPT-4", "Clinical Decision Support", "NLP"],
-    realTime: ["WebSockets", "Socket.io", "Server-Sent Events"],
-    infra: ["AWS", "Vercel", "Docker", "CI/CD"],
+    languages:  ["TypeScript", "JavaScript (ES6+)", "Python"],
+    frontend:   ["Angular 17", "React.js", "Next.js", "Vue.js / Nuxt.js"],
+    mobile:     ["React Native", "Expo", "FCM / APNs push notifications"],
+    backend:    ["Node.js", "Express.js", "Nest.js", "FastAPI"],
+    databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+    state:      ["NgRx", "Redux Toolkit", "RxJS", "Zustand"],
+    cloud:      ["AWS (S3, EC2, Lambda)", "Docker", "Vercel", "GitHub Actions"],
+    ai:         ["Python", "PyTorch", "scikit-learn", "OpenAI API", "LangChain"],
   },
 
-  impact: {
-    patientsMonitored: "300+",
-    apiEndpointsBuilt: "90+",
-    clinicianTimeSaved: "90 min/day",
-    clinicsServed: "Multiple multi-tenant deployments",
+  shipped: {
+    streamingPlatform: "SonderBlu — social streaming app, thousands of active users",
+    mobileApp:         "ReiluKuljetus — food ordering app, live on App Store & Google Play",
+    apiEndpoints:      "90+ production endpoints across multiple platforms",
+    deployments:       "Multi-tenant, horizontally scalable cloud architectures",
   },
 
-  philosophy: "Healthcare software isn't just code — it's patient safety.",
+  learning: ["ML fundamentals", "Deep Learning / PyTorch", "LLMs", "RAG systems", "MLOps"],
+
+  philosophy: "The best AI engineers don't just run models — they ship full products.",
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%92%A1%20What%20I%20Build&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="What I Build"/>
-</div>
+## What I build
 
-> **I don't just write code. I build healthcare systems that clinicians rely on and patients trust.**
+**Full-stack web applications** — Angular, React, Next.js frontends wired to Node.js / Express / Nest.js backends, deployed on AWS and Vercel with real-time WebSocket features, JWT auth, and CI/CD pipelines.
 
-- 🏥 **Remote Patient Monitoring (RPM)** — Real-time vitals, alerts, risk scoring, and clinical dashboards
-- 📱 **Telemedicine Platforms** — HIPAA-compliant video consultations, scheduling, and patient portals
-- 🤖 **AI Clinical Tools** — GPT-4 powered clinical scribes, decision support, and documentation automation
-- 🔗 **EHR Integrations** — FHIR R4 / HL7 v2 bridges connecting your software to Epic, Cerner, and more
-- 💰 **Medical Billing & RCM** — Insurance claims processing, multi-insurer settlement, revenue cycle automation
-- 🔒 **HIPAA-Compliant Architecture** — End-to-end encryption, audit logging, role-based access, BAA-ready infrastructure
+**Cross-platform mobile apps** — React Native apps with Stripe payments, Google Maps, push notifications, published on App Store and Google Play.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+**AI-powered products** — LLM integrations, RAG pipelines with vector databases, and REST APIs wrapping ML models using FastAPI — bridging the gap between data science and production software.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Featured Projects"/>
-</div>
+---
 
-<table>
-<tr>
-<td width="100%">
-
-### 🧠 NeuroScribe RPM — Remote Patient Monitoring Platform
-
-**The Problem:** Clinics managing chronic-care patients were drowning in manual documentation, fragmented vitals data, and compliance overhead — losing hours per clinician per day.
-
-**The Solution:** A multi-tenant Remote Patient Monitoring platform with real-time clinical intelligence.
-
-**Key Features:**
-- Real-time vital sign monitoring with automated risk scoring and alerts
-- AI Clinical Scribe (OpenAI GPT-4) — auto-generates clinical notes from patient encounters
-- Provider dashboard with population health views and patient timelines
-- React Native patient mobile app (iOS & Android) with device pairing
-- HIPAA-compliant architecture: AES-256 encryption, audit logging, RBAC
-
-**Architecture:**
-- **Backend:** NestJS, 90+ REST API endpoints, WebSocket real-time layer
-- **Frontend:** React / Next.js (App Router, Server Actions)
-- **Mobile:** React Native with push notifications and biometric auth
-- **Database:** PostgreSQL with Prisma ORM, Redis caching
-- **AI:** OpenAI GPT-4 integration for clinical documentation
-
-**Impact:**
-
-| Metric | Result |
-|--------|--------|
-| Patients Monitored | **300+** across multiple clinics |
-| Clinician Time Saved | **90 min/day** per provider |
-| API Endpoints | **90+** production endpoints |
-| Architecture | **Multi-tenant**, horizontally scalable |
-
-</td>
-</tr>
-</table>
+## Featured projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 💰 Insurance Claims Processing System
+### SonderBlu — Streaming & Social Platform
 
-**Problem:** Manual claims processing across multiple insurers caused delays, errors, and revenue leakage.
+Full MEAN stack platform for movie enthusiasts. Built the Angular frontend, Node.js/Express API layer, and MongoDB database from the ground up.
 
-**Solution:** Automated multi-insurer claims pipeline with real-time status tracking and settlement automation.
+**Highlights**
+- 20+ Angular screens with real-time social feeds via WebSockets
+- SSR with Next.js — Lighthouse score 90+
+- JWT / OAuth auth, RBAC middleware, role guards
+- CI/CD via GitHub Actions — 50% faster release cycle
+- 99.5% uptime, sub-2s load times in production
 
-**Tech:** NestJS · React · PostgreSQL · FHIR R4
-
-**Impact:**
-- Reduced claim processing time significantly
-- Multi-insurer integration (EDI 837/835)
-- Automated eligibility verification
+**Stack:** Angular · Node.js · Express · MongoDB · WebSockets · NgRx · Docker
 
 </td>
 <td width="50%">
 
-### 📹 Telemedicine Platform
+### ReiluKuljetus — Food Ordering App
 
-**Problem:** Patients in remote areas had limited access to specialist consultations and faced scheduling friction.
+Full-stack mobile application built for the Finnish market. React Native frontend + complete Node.js/Express REST API backend.
 
-**Solution:** Full-featured telemedicine platform with HIPAA-compliant video, scheduling, and clinical workflow integration.
+**Highlights**
+- Published on App Store and Google Play (Finland)
+- Stripe payment gateway integration
+- Google Maps real-time GPS delivery tracking
+- FCM / APNs push notifications — 92% delivery rate
+- Reduced app crash rate by 60% via performance profiling
 
-**Tech:** React · Node.js · WebRTC · PostgreSQL
-
-**Impact:**
-- **500+ appointments/month** facilitated
-- Integrated prescription management
-- Appointment scheduling with automated reminders
+**Stack:** React Native · Node.js · Express · MongoDB · Stripe · Google Maps
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>🔍 Architecture Deep Dive — NeuroScribe RPM</strong></summary>
-<br/>
+---
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                      CLIENT LAYER                                │
-│  ┌─────────────┐  ┌──────────────────┐  ┌───────────────────┐   │
-│  │ React Native │  │ Next.js Provider │  │  Admin Dashboard  │   │
-│  │ Patient App  │  │    Dashboard     │  │   (React SPA)     │   │
-│  └──────┬──────┘  └────────┬─────────┘  └────────┬──────────┘   │
-│         │                  │                      │              │
-└─────────┼──────────────────┼──────────────────────┼──────────────┘
-          │          REST + WebSocket               │
-┌─────────┼──────────────────┼──────────────────────┼──────────────┐
-│         ▼                  ▼                      ▼              │
-│  ┌─────────────────────────────────────────────────────────┐     │
-│  │              NestJS API Gateway (90+ endpoints)          │     │
-│  │  ┌──────────┐ ┌──────────┐ ┌────────┐ ┌──────────────┐ │     │
-│  │  │ Auth/RBAC│ │ Vitals   │ │ Alerts │ │ AI Scribe    │ │     │
-│  │  │ Module   │ │ Ingestion│ │ Engine │ │ (GPT-4)      │ │     │
-│  │  └──────────┘ └──────────┘ └────────┘ └──────────────┘ │     │
-│  └─────────────────────────────────────────────────────────┘     │
-│                              │                                   │
-│  ┌───────────┐  ┌────────────┴───────────┐  ┌───────────────┐   │
-│  │ PostgreSQL │  │    Redis (Caching +    │  │   S3 / File   │   │
-│  │ + Prisma   │  │    Real-time PubSub)   │  │   Storage     │   │
-│  └───────────┘  └────────────────────────┘  └───────────────┘   │
-│                       HIPAA-COMPLIANT INFRASTRUCTURE             │
-│           AES-256 Encryption · Audit Logs · BAA-Ready            │
-└──────────────────────────────────────────────────────────────────┘
-```
+## AI Engineering roadmap
 
-</details>
+I am currently executing a structured 6-month program to move from Full Stack into AI Engineering. The goal: combine strong software engineering fundamentals with modern AI to build and ship intelligent systems in production.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+| Phase | Focus | Status |
+|---|---|---|
+| Month 1 | Python · NumPy · Pandas · Linear Algebra · Statistics | ✅ In progress |
+| Month 2 | Machine Learning · scikit-learn · Andrew Ng course | 🔜 Upcoming |
+| Month 3 | Deep Learning · PyTorch · CNNs · RNNs · Transformers | 🔜 Upcoming |
+| Month 4 | LLMs · OpenAI API · Prompt Engineering · RAG Systems | 🔜 Upcoming |
+| Month 5 | MLOps · Docker · CI/CD for ML · Model deployment · AI SaaS | 🔜 Upcoming |
+| Month 6 | Portfolio projects · Computer Vision · NLP · AI product launch | 🔜 Upcoming |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%9B%A0%20Technical%20Expertise&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Technical Expertise"/>
-</div>
+> Building in public. Every project from this program will be deployed and linked here.
 
-<div align="center">
+---
+
+## Technical skills
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend & Mobile
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend & APIs
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### Database & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Healthcare & Compliance
-![HIPAA](https://img.shields.io/badge/HIPAA-0D9488?style=for-the-badge)
-![FHIR R4](https://img.shields.io/badge/FHIR_R4-E44D26?style=for-the-badge)
-![HL7](https://img.shields.io/badge/HL7_v2-DA1A5C?style=for-the-badge)
-![EHR](https://img.shields.io/badge/EHR_Integration-2563EB?style=for-the-badge)
-![Medical Billing](https://img.shields.io/badge/RCM_%2F_Billing-7C3AED?style=for-the-badge)
+### State Management
 
-### AI & Intelligence
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/Clinical_AI-0EA5E9?style=for-the-badge)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 
-### DevOps & Tools
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### DevOps & Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%A7%A0%20What%20I%20Can%20Do%20for%20Your%20Healthcare%20Project&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Client Services"/>
-</div>
-
-| Area | What You Get |
-|------|-------------|
-| **Remote Patient Monitoring** | Production-ready RPM with real-time vitals, risk scoring, alerts, and clinical dashboards |
-| **Telemedicine** | HIPAA-compliant video consultations, scheduling, e-prescriptions, and patient portals |
-| **AI Clinical Tools** | GPT-4 powered documentation automation, clinical decision support, and NLP pipelines |
-| **EHR Integration** | Seamless FHIR R4 / HL7 v2 bridges to Epic, Cerner, Athenahealth, and other systems |
-| **Medical Billing & RCM** | Automated claims submission, eligibility verification, and multi-insurer settlement flows |
-| **Compliance Architecture** | HIPAA-compliant infrastructure with encryption, audit trails, RBAC, and BAA-ready deployments |
-| **Patient Mobile Apps** | Cross-platform (iOS & Android) apps with biometric auth, device integration, and push alerts |
-| **MVP Development** | From concept to production healthcare platform in weeks, not months |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+## GitHub stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="GitHub Analytics"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Sameer447">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0D9488&text_color=C9D1D9&count_private=true&ring_color=0D9488" alt="Sameer Shoukat GitHub Stats - Healthcare Software Engineer" />
-  </a>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=534AB7&text_color=C9D1D9&count_private=true&ring_color=534AB7" alt="GitHub Stats"/>
   &nbsp;
-  <a href="https://github.com/Sameer447">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Programming Languages" />
-  </a>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sameer447">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=react&hide_border=true&background=0D1117&stroke=0D9488&ring=0D9488&fire=F87171&currStreakLabel=38BDF8&sideLabels=38BDF8" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=tokyonight&hide_border=true&background=0D1117&stroke=534AB7&ring=534AB7&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=7F77DD" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sameer447">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=38BDF8&line=0D9488&point=C9D1D9" alt="GitHub Contribution Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7F77DD&line=534AB7&point=AFA9EC&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%8F%86%20Achievements%20%26%20Impact&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Achievements"/>
-</div>
+## Impact & numbers
 
-| | Metric | Detail |
-|---|--------|--------|
-| 🩺 | **300+ Patients Monitored** | Production RPM platform serving multiple clinics |
-| ⏱ | **90 min/day Saved** | Per clinician through AI-powered documentation automation |
-| 🔌 | **90+ API Endpoints** | Production-grade, documented, and thoroughly tested |
-| 📱 | **500+ Appointments/Month** | Telemedicine platform adoption milestone |
-| 🔒 | **HIPAA Compliant** | End-to-end encryption, audit logging, access controls |
-| 🧠 | **AI Integration** | GPT-4 clinical scribe reducing documentation burden |
-| 🏗 | **Multi-Tenant Architecture** | Single codebase serving multiple healthcare organizations |
-| 📊 | **4+ Years** | Dedicated healthcare software engineering experience |
+| Metric | Detail |
+|---|---|
+| **4+ years** of production experience | Full-stack web and mobile applications shipped globally |
+| **Thousands of active users** | SonderBlu streaming platform serving real users in production |
+| **2 apps on both stores** | ReiluKuljetus live on App Store and Google Play (Finland) |
+| **90+ API endpoints** | Production-grade, documented, and tested REST APIs |
+| **50% faster releases** | Via GitHub Actions CI/CD automation on current project |
+| **60% crash rate reduction** | Through systematic React Native performance profiling |
+| **92% push delivery rate** | FCM/APNs notification infrastructure across mobile apps |
+| **Lighthouse 90+** | SSR-optimized Next.js / Angular frontend performance |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%A4%9D%20Why%20Hire%20Me&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Why Hire Me"/>
-</div>
+## Currently building
 
-<table>
-<tr>
-<td width="50%">
+As part of my AI Engineering program, I am building the following projects publicly on this profile:
 
-### Technical Depth
-- Not a generalist picking up healthcare on the side — this is my **core domain**
-- I understand **HIPAA**, **FHIR**, **HL7**, **medical billing workflows**, and clinical terminology
-- I build systems that pass compliance audits, not just demos
+- **ML fundamentals repo** — Python implementations of linear regression, gradient descent, and classification from scratch
+- **RAG document Q&A system** — FAISS + embeddings + OpenAI API pipeline
+- **AI SaaS MVP** — Full product with FastAPI backend, Next.js frontend, LLM integration, and cloud deployment
+- **Computer Vision project** — Object detection using PyTorch
 
-</td>
-<td width="50%">
+---
 
-### Proven Results
-- Production platforms serving **real patients** and **real clinicians** daily
-- Measurable outcomes: time saved, patients monitored, workflows automated
-- I ship — no endless discovery phases or scope creep
+## Let's connect
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+I am open to **full-time remote roles**, **contract projects**, and **long-term partnerships** across full-stack, mobile, or AI engineering.
 
-### Communication & Reliability
-- Clear async updates, proactive issue flagging, and structured progress reports
-- Timezone-flexible (GMT+5) — consistent overlap with US & EU business hours
-- I treat your project like my own product
-
-</td>
-<td width="50%">
-
-### End-to-End Ownership
-- From architecture design to production deployment
-- Backend APIs, frontend dashboards, mobile apps, and DevOps — one engineer
-- Reduces coordination overhead and speeds up delivery
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%E2%9A%99%20How%20I%20Work&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="How I Work"/>
-</div>
-
-```
-1. Discovery        →  Understand your clinical workflow, compliance needs, and goals
-2. Architecture     →  Design HIPAA-compliant, scalable system architecture
-3. Sprint Delivery  →  2-week sprints with deployable increments and demos
-4. Testing          →  Automated tests, security audits, compliance verification
-5. Launch           →  Production deployment with monitoring and documentation
-6. Support          →  Post-launch support, iteration, and knowledge transfer
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%97%A3%20What%20Clients%20Say&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Testimonials"/>
-</div>
-
-<!-- Replace these with real testimonials as you collect them -->
-
-> *"Sameer built our entire RPM platform from scratch. His understanding of healthcare workflows and HIPAA requirements saved us months of back-and-forth."*
-> — **[Client Name]**, CTO at [Company]
-
-> *"One of the few developers who actually understands the healthcare domain. He doesn't just code — he asks the right clinical questions."*
-> — **[Client Name]**, Founder at [Health Tech Startup]
-
-> *"Reliable, communicative, and technically excellent. Our telemedicine platform has been running flawlessly since launch."*
-> — **[Client Name]**, Product Manager at [Company]
-
-<!-- Add real testimonials above as they come in -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%8E%AF%20Services%20I%20Offer&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Services"/>
-</div>
-
-- **Healthcare MVP Development** — Take your health tech idea from concept to production
-- **RPM & Telemedicine Platforms** — End-to-end Remote Patient Monitoring and telehealth systems
-- **EHR/EMR Integration** — FHIR R4 / HL7 v2 bridges connecting to Epic, Cerner, Athenahealth
-- **AI Healthcare Tools** — Clinical documentation automation, decision support, NLP pipelines
-- **Medical Billing Automation** — Claims processing, eligibility verification, revenue cycle management
-- **HIPAA Compliance Consulting** — Architecture review, encryption strategy, audit preparation
-- **React / React Native Development** — High-performance healthcare web and mobile applications
-- **Technical Due Diligence** — Code audits and architecture assessments for health tech investments
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D9488,100:0a0e27&height=35&section=header&text=%F0%9F%93%9A%20Currently%20Exploring&fontSize=16&fontColor=ffffff&fontAlignY=50" alt="Currently Exploring"/>
-</div>
-
-<div align="center">
-
-| Focus Area | Status |
-|:----------:|:------:|
-| AWS Healthcare (HealthLake, Comprehend Medical) | 🔄 In Progress |
-| SMART on FHIR App Development | 🔄 In Progress |
-| LLM Fine-tuning for Clinical NLP | 📋 Planned |
-| SOC 2 Type II Compliance | 📋 Planned |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:162454&height=2" width="100%" alt=""/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:22c55e,50:0D9488,100:0a0e27&height=45&section=header&text=%F0%9F%93%AB%20Let%27s%20Build%20Something%20That%20Matters&fontSize=18&fontColor=ffffff&fontAlignY=50" alt="Contact"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**Whether you're a healthcare startup building an MVP or an established practice modernizing your systems — I can help.**
-
-I'm currently available for **contract projects**, **full-time remote roles**, and **long-term partnerships**.
-
-<br/>
-
-[![Email Me](https://img.shields.io/badge/Email-sameer__shoukat%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
+[![Email](https://img.shields.io/badge/Email-sameer__shoukat%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sameer_shoukat@outlook.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameershoukat-fullstack-javascript-developer/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-developer-vhne.vercel.app)
 
-<!-- Uncomment when available:
-[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
-[![Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
-[![Calendly](https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](YOUR_CALENDLY_URL)
--->
+**Response time:** Within 24 hours &nbsp;·&nbsp; **Timezone:** GMT+5 — consistent US/EU overlap available
 
-<br/>
-
-**Response time:** Within 24 hours &nbsp;·&nbsp; **Timezone:** GMT+5 (flexible for US/EU overlap)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:0c1445,50:162454,75:1a3a5c,100:0d9488&height=150&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=120&section=footer" width="100%" alt="Footer"/>
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=0D9488&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%9A%95%EF%B8%8F+Healthcare+software+isn't+just+code+%E2%80%94+it's+patient+safety." alt="Philosophy"/>
-  <br/><br/>
   <sub>
-    <strong>Sameer Shoukat</strong> · Healthcare Software Engineer · Building technology that improves patient outcomes<br/>
-    © 2026 · Last updated: April 2026
+    <strong>Sameer Shoukat</strong> · Full Stack Developer → AI Engineer · Lahore, Pakistan<br/>
+    Building software that ships. Learning AI that scales. Last updated: April 2026.
   </sub>
 </div>
